@@ -23,7 +23,8 @@ Thanks to Deng Weijian for providing the code for *[generating sample sets](http
 
  1. Creat sample sets and 2. Train classifier and get image features of sample sets
      
-     pleaser refer 
+     pleaser refer to
+     
     *https://github.com/Simon4Yan/Meta-set/blob/main/meta_set*
 
  3. Get set representations

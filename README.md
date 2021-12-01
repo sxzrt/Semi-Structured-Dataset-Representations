@@ -38,9 +38,33 @@ Thanks to Deng Weijian for providing the code for *[generating sample sets](http
     # get shape, clusters and sampled data.  
     python Set_rep/train_regnet_new.py
     ```
+    
+****
+### Citation
+If you use the code in your research, please cite:
 
+```bibtex
+@article{DBLP:journals/corr/abs-2108-10310,
+  author    = {Xiaoxiao Sun and
+               Yunzhong Hou and
+               Hongdong Li and
+               Liang Zheng},
+  title     = {Label-Free Model Evaluation with Semi-Structured Dataset Representations },
+  journal   = {CoRR},
+  volume    = {abs/2108.10310},
+    url       = {https://arxiv.org/abs/2108.10310}
+  year      = {2021},
+}
+```
 
-
+```bibtex
+@inproceedings{deng2020labels,
+author={Deng, Weijian and Zheng, Liang},
+title     = {Are Labels Always Necessary for Classifier Accuracy Evaluation?},
+booktitle = {Proc. CVPR},
+year      = {2021},
+}
+```
 
 
 

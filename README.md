@@ -33,10 +33,14 @@ Thanks to Deng Weijian for providing the code for *[generating sample sets](http
     python Set_rep/get_set_representation.py
     ```
 
- 4. Get set representations
-    ```bash
-    # get shape, clusters and sampled data.  
+ 4. Train the regresssor on dataset representaions
+    ```bash 
     python Set_rep/train_regnet_new.py
+    ```
+    
+ 5. Test the regresssor 
+    ```bash
+    python Set_rep/test_regnet_new.py
     ```
     
 ****
